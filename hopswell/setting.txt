@@ -1,0 +1,8 @@
+◇  Project name:
+│  hopswell
+◇  Select a framework:
+│  React
+◇  Select a variant:
+│  JavaScript
+◇  Install with npm and start now?
+│  Yes
